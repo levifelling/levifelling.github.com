@@ -1,45 +1,35 @@
 ---
 layout: page
-title: Hello World!
+title: Home
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<img class='inset right' src='/assets/images/adc_crop.jpg' title='Levi Felling' alt='Photo of Levi Felling' width='120px' />
+Hello - I'm Levi Felling, a software developer, musician, gardener, and dreamer currently living in midwestern America. This site is a test ground for new ideas and a place to share stuff that would otherwise be stuck in my head.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
++--	{.section}
+Work
+========
+Since 2004 I have been employeed at [Applied Data Consultants](http://adc4gis.com)
+=--
 
-## Update Author Attributes
++--	{.section}
+Music
+========
+* [http://eauclairestagefright.bandcamp.com/](http://eauclairestagefright.bandcamp.com/)
+* [http://snifter.bandcamp.com/](http://snifter.bandcamp.com/)
+* [http://www.cdbaby.com/cd/fsv](http://www.cdbaby.com/cd/fsv)
+=--
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
++--	{.section}
+Anti-social 
+========
+I can be found lurking in these dusty corners of the internet.
+* [github](https://github.com/levifelling)
+* [facebook](http://www.facebook.com/people/Levi-Felling/615372444)
+* [youtube](http://www.youtube.com/user/elvi715)
+* [twitter](https://twitter.com/#!/715levi)
+* [linkedIn](http://www.linkedin.com/pub/levi-felling/12/338/729)
+* [google+](https://plus.google.com/105669272048294294705/posts)
+=--
 
