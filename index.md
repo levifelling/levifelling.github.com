@@ -19,6 +19,8 @@ Music
 * [http://eauclairestagefright.bandcamp.com/](http://eauclairestagefright.bandcamp.com/)
 * [http://snifter.bandcamp.com/](http://snifter.bandcamp.com/)
 * [http://www.cdbaby.com/cd/fsv](http://www.cdbaby.com/cd/fsv)
+<br/>
+more of the backstory of my musical experience is posted on my [family blog](http://aiken-felling.blogspot.com/2008/07/fathers-day-adventure.html)
 =--
 
 +--	{.section}
