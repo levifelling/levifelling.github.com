@@ -12,7 +12,8 @@ TSP Line Art - or OCD etch a sketch drawings
 
 When I was a kid I played a game with a pen and plain pice of paper with the only rules being: 
 1. never lift the pen from the paper
-1. must end at the point you began (so line is continuous)
+1. don't cross any lines
+1. end at the point you began (so line is continuous)
 
 The resulting image would be a maze that you could attempt to traverse.
 
