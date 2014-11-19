@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+- [Funklet](/funklet)
+- [Inspiration](/media)
+
+#Interests
 ##Sustainable living 
 
 My family and I are committed to living simply and sustainably in our modest east hill home. Our garden provides much of our diet, and we supplement what we cannot grow, gather or hunt with organic locally grown food. 

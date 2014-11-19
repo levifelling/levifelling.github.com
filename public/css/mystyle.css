@@ -1,0 +1,24 @@
+.circle
+{
+width:80%;
+height:80%;
+border-radius:50%;
+font-size:50px;
+color:#fff;
+line-height:80%;
+text-align:center;
+background:#000;
+display: flex;
+}
+
+.thecircle
+{
+width:500px;
+height:500px;
+border-radius:50%;
+font-size:50px;
+color:#fff;
+line-height:500px;
+text-align:center;
+background:#000
+}

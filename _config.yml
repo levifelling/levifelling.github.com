@@ -21,6 +21,5 @@ github:
   repo:           https://github.com/levifelling/levifelling.github.com
 
 pages_list:       
-  About: '/about'
   Projects: '/projects'
   Blog: '/blog'
