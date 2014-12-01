@@ -20,11 +20,14 @@ title: Media
 - Funkmasters: James Brown Rhythm Sections
 - Stone: Stick Control
 - Chapin: Advanced Techniques for Modern Drummer
+- Reed: Syncopation
 
 ##Follow
+- [http://www.openculture.com/](http://www.openculture.com/)
 - [http://mrmooswhatdafunk.wordpress.com/](http://mrmooswhatdafunk.wordpress.com/)
 
 ##Watch
+- [Birdman](http://www.birdmanthemovie.com/)
 - The Last Waltz
 - Blacklist
 
