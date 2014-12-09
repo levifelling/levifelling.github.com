@@ -27,6 +27,7 @@ title: Media
 - [http://mrmooswhatdafunk.wordpress.com/](http://mrmooswhatdafunk.wordpress.com/)
 
 ##Watch
+- [Vincent Moon](https://www.youtube.com/user/vincentmoon/featured)
 - [Birdman](http://www.birdmanthemovie.com/)
 - The Last Waltz
 - Blacklist
